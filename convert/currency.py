@@ -1,0 +1,2 @@
+def currency(input):
+    pass
